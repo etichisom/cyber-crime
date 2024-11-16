@@ -129,3 +129,41 @@
 - [European Commission](https://european-union.europa.eu/)
 
 **Study Tip**: Focus on the roles of the key institutions, the legislative process, and the principles of EU law.
+
+
+
+
+
+
+# Possible Exam Questions
+
+1. **Define the mission of the European Union (EU). What are its main goals and responsibilities?**
+
+2. **Discuss the three pillars of the Rule of Law in the EU. How do they contribute to ensuring the rule of law in EU member states?**
+
+3. **Explain the relationship between EU law and national law. What does the principle of subsidiarity entail, and how does it impact the governance of the EU?**
+
+4. **Outline the ordinary legislative procedure of the EU. What roles do the European Commission, European Parliament, and Council of the EU play in this process?**
+
+5. **What is the role of the European Parliament in the EU's decision-making process? How does it interact with the other EU institutions?**
+
+6. **Describe the main functions and powers of the Council of the EU. How does the rotating presidency work?**
+
+7. **Explain the role of the European Commission in the EU. How does it represent the common interest of the EU and what are its main responsibilities?**
+
+8. **What are the key functions of the European Council, and how does it set the political direction for the EU?**
+
+9. **Describe the function of the Court of Justice of the EU. How does it contribute to ensuring compliance with EU law?**
+
+10. **What are the differences between public law and private law in the context of the EU? Provide examples of each.**
+
+11. **Explain the significance of the legal maxims "Nullum crimen sine lege" and "Nulla poena sine lege" within the context of the EU legal system.**
+
+12. **Discuss the principle of proportionality in EU law. How does it ensure that EU actions do not exceed what is necessary?**
+
+13. **What are the key responsibilities of the EU in areas like health, climate change, migration, and digital transformation? Provide examples of EU actions or initiatives in these areas.**
+
+14. **How does the principle of subsidiarity ensure that decisions are made at the most appropriate level in the EU? Provide examples where subsidiarity has been applied in EU legislation.**
+
+15. **What are the main sources of EU law? Explain the difference between primary and secondary law in the EU.**
+
